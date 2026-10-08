@@ -18,10 +18,10 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 
 # Examples of Manual
 
-- Part of turning On and Off
-- Part of perception
-- Part of charging
-- Part of brand guidelines manual
+- **[Part of turning On and Off](#-1-part-of-turning-on-and-off)**
+- **Part of perception**
+- **Part of charging**
+- **Part of brand guidelines manual**
 
 ## **№ 1. Part of turning On and Off**
 

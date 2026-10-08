@@ -40,3 +40,6 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 
 ![alt text](./images/perception.png)
 
+## **№ 3. Charging**
+
+![alt text](./images/charging_screenshot.png)

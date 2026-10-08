@@ -16,18 +16,13 @@ My responsibilities as a **Analyst/Systems Engineer** included:
   - Documentation was maintained in PTC Windchill PDM and delivered through an interactive web application.
   - Designed the web interface and information-display logic (UX/UI) in collaboration with UI/UX designers.
 
-## Examples of Manual
----
-title: Включение и выключение
-sidebar_position: 1
----
-
-# **Включение и выключение**
+# Examples of Manual
+## **№ 1. Turning On and Off**
 
 > - **Искать термин в глоссарии**
 > - Перед началом работы ознакомьтесь с интерфейсом панели управления.
 
-## **Включение ВАТС**
+### **Включение ВАТС**
 
 ![alt text](./assets/turning_on_and_off_1.svg)
 

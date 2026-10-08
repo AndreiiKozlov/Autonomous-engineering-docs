@@ -36,4 +36,7 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 
 3. etc...
 
+## **№ 2. Perception**
+
+![alt text](./images/perception.png)
 

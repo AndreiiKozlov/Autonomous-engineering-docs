@@ -24,7 +24,7 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 
 ### **Включение ВАТС**
 
-![alt text](./assets/turning_on_and_off_1.svg)
+![alt text](./images/turning_on_and_off_1.svg)
 
 1. Откройте левую дверцу борта: потяните за тросики, расположенные внизу слева и справа от дверцы.
 
@@ -34,5 +34,5 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 	1. Поднимите ручку полностью и задвиньте предохранитель в розетку до упора.
 	2. Опустите ручку вниз до упора и утопите язычок-фиксатор внутрь ручки до щелчка.
 
-![alt text](./assets/turning_on_and_off_2.svg)
+![alt text](./images/turning_on_and_off_2.svg)
 

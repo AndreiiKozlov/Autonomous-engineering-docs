@@ -17,7 +17,7 @@ My responsibilities as a **Analyst/Systems Engineer** included:
   - Designed the web interface and information-display logic (UX/UI) in collaboration with UI/UX designers.
 
 # Examples of Manual
-## **№ 1. Turning On and Off**
+## **№ 1. Part of turning On and Off**
 
 > - **Искать термин в глоссарии**
 > - Перед началом работы ознакомьтесь с интерфейсом панели управления.
@@ -36,10 +36,14 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 
 3. etc...
 
-## **№ 2. Perception**
+## **№ 2. Part of perception**
 
 ![alt text](./images/perception.png)
 
-## **№ 3. Charging**
+## **№ 3. Part of charging**
 
 ![alt text](./images/charging_screenshot.png)
+
+## **№ 4. Part of Brand Guidelines Manual**
+
+![alt text](./images/brandbook_manual.pdf)

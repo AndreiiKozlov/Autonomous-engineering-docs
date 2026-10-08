@@ -46,4 +46,4 @@ My responsibilities as a **Analyst/Systems Engineer** included:
 
 ## **№ 4. Part of Brand Guidelines Manual**
 
-![alt text](./images/brandbook_manual.pdf)
+![alt text](./images/brandbook_manual.png)

@@ -16,7 +16,7 @@ My responsibilities as a **Analyst/Systems Engineer** included:
   - Documentation was maintained in PTC Windchill PDM and delivered through an interactive web application.
   - Designed the web interface and information-display logic (UX/UI) in collaboration with UI/UX designers.
 
-# Examples of Manual
+# Technical Documentation Portfolio
 
 - **[Part of turning On and Off](#-1-part-of-turning-on-and-off)**
 - **[Part of perception](#-2-part-of-perception)**
